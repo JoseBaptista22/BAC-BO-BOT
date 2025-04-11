@@ -1,2 +1,0 @@
-# BAC-BO-BOT
-Bot
